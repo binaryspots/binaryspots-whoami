@@ -8,4 +8,5 @@ My name is Anthony, I go by @binaryspots on all platforms.
 
  ## Contact
 
-* Twitter: @binaryspots
+* X: @binaryspots
+* GitHub: @binaryspots
